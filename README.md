@@ -21,8 +21,8 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 | Lenguaje | Nivel | Descripción |
 |----------|-------|-------------|
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> | **Avanzado** | Desarrollo de aplicaciones empresariales |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> | **Avanzado** | Desarrollo web, scripting y data science |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> | **Intermedio** | Desarrollo frontend y backend |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> | **Avanzado** | Data science |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> | **Intermedio** | Desarrollo backend |
 | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> | **Intermedio** | Programación de sistemas y estructuras de datos |
 | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> | **Intermedio** | Desarrollo de microservicios y aplicaciones concurrentes |
 | <img src="https://img.shields.io/badge/Ada-02599C?style=for-the-badge&logo=ada&logoColor=white" alt="Ada"/> | **Básico** | Programación crítica y sistemas embebidos |
