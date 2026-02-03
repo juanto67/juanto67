@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Juan Mari Gonzalez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo" alt="Typing SVG" />
 </div>
 
 ---
@@ -71,15 +71,15 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanto67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanto67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="495"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanto67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanto67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="495"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanto67&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=juanto67&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="495"/>
 </div>
 
 ---
@@ -87,7 +87,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## 🏆 Logros y Contribuciones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juanto67&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=juanto67&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -95,10 +95,10 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## 📈 Actividad de Contribución
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanto67&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juanto67&theme=tokyo-night&hide_border=true&custom_title=Contribuciones%20de%20juanto67)
 
----
+</div>
 
 ---
 
@@ -122,6 +122,8 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 - ✅ **Constancia**: Contribuciones regulares y mejora continua
 - ✅ **Aprendizaje Activo**: Exploración de tecnologías emergentes
 - ✅ **Resolución de Problemas**: Enfoque metodológico en LeetCode y proyectos académicos
+
+---
 
 ## 🌟 Proyectos Destacados
 
@@ -180,6 +182,8 @@ Soluciones a problemas de programación competitiva en LeetCode. Demuestra habil
 - Frameworks modernos de Machine Learning
 - Arquitecturas de microservicios
 - Desarrollo de APIs escalables
+
+---
 
 <div align="center">
 
