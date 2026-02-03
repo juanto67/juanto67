@@ -71,24 +71,9 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanto67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="495"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanto67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="495"/>
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=juanto67&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="495"/>
 </div>
 
----
-
-## 🏆 Logros y Contribuciones
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juanto67&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
 ---
 
