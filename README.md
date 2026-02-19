@@ -122,6 +122,7 @@ Proyecto de backend que implementa autenticación segura para APIs REST. Incluye
 
 ### 🎮 [PipeLine ETL Football](https://github.com/juanto67/Pipeline-ETL-ML)
 **Tecnologías:** Python,pandas,psycopg2,PostgreSQL,docker
+
 Proyecto ETL de extracion de datos a partir de request, lo tranformammos para conseguir calcular un elo ademas de crear features para posteriormente el entrenamiento de un arbol de decision. Finalmente load para insertar datos en la BD de postgreSQL, tanto de las features como de la informacion de los partidos.
 
 ### 🧠 [LeetCode Solutions](https://github.com/juanto67/LeetCode)
