@@ -120,17 +120,9 @@ Trabajos académicos y prácticos en el campo de la inteligencia artificial. Inc
 **Tecnologías:** JavaScript, Node.js  
 Proyecto de backend que implementa autenticación segura para APIs REST. Incluye manejo de tokens, validación de usuarios y prácticas de seguridad modernas.
 
-### 🎮 [Proyecto Wordle](https://github.com/juanto67/Wordle_proyecto)
-**Tecnologías:** Java  
-Implementación del popular juego Wordle desarrollado como proyecto académico para Algoritmia II. Demuestra habilidades en lógica de programación y estructuras de datos.
-
-### ⚖️ [Algoritmo de Pesos](https://github.com/juanto67/Algoritmo_pesos)
-**Tecnologías:** Java  
-Proyecto de Algoritmia I que resuelve problemas de optimización utilizando algoritmos eficientes para el manejo de pesos y distribución óptima.
-
-### 💻 [Trabajos de Sistemas Operativos](https://github.com/juanto67/Trabajos-Sistemas-Operativos-C)
-**Tecnologías:** C  
-Colección de proyectos académicos que exploran conceptos fundamentales de sistemas operativos, incluyendo manejo de procesos, memoria y concurrencia.
+### 🎮 [PipeLine ETL Football](https://github.com/juanto67/Pipeline-ETL-ML)
+**Tecnologías:** Python,pandas,psycopg2,PostgreSQL,docker
+Proyecto ETL de extracion de datos a partir de request, lo tranformammos para conseguir calcular un elo ademas de crear features para posteriormente el entrenamiento de un arbol de decision. Finalmente load para insertar datos en la BD de postgreSQL, tanto de las features como de la informacion de los partidos.
 
 ### 🧠 [LeetCode Solutions](https://github.com/juanto67/LeetCode)
 **Tecnologías:** Java  
