@@ -70,9 +70,9 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=juanto67&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="495"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juanto67&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 ---
