@@ -100,7 +100,7 @@ Soy estudiante de Ingeniería Informática e ingeniero de software en prácticas
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=juanto67&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5&margin-w=6&margin-h=3" alt="Trofeos de GitHub de juanto67"/>
+<img width="90%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=juanto67&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5&margin-w=6&margin-h=3" alt="Trofeos de GitHub de juanto67"/>
 
 </div>
 
