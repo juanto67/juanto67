@@ -1,14 +1,14 @@
 # 👋 ¡Hola! Soy Juan Mari Gonzalez
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Ingeniero+de+Software+en+pr%C3%A1cticas;Backend+con+Java+%26+Spring+Boot;Siempre+Aprendiendo" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Acerca de mí
 
-Soy un desarrollador apasionado por la tecnología y la programación. Me encanta explorar nuevas tecnologías, resolver problemas complejos y crear soluciones innovadoras. Mi experiencia abarca múltiples lenguajes de programación y tecnologías modernas.
+Soy estudiante de Ingeniería Informática e ingeniero de software en prácticas en **Grupo Viajes El Corte Inglés**. Trabajo principalmente en el desarrollo backend con **Java y Spring Boot**, participando en sistemas empresariales, integración de servicios y soluciones basadas en datos. Me interesa escribir código limpio, aprender continuamente y construir software fiable y mantenible.
 
 ---
 
@@ -34,21 +34,40 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 <div align="center">
 
 
-**Backend & APIs**  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+**Backend & APIs**<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+<img src="https://img.shields.io/badge/Apache_Storm-225F88?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Storm"/>
 
-**Data Science & AI**  
+**Bases de Datos & Mensajería**<br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin"/>
+
+**Data Science & AI**<br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-**Herramientas de Desarrollo**  
+**Build, Calidad & Desarrollo**<br>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
-**Documentación**  
+**Testing, Observabilidad & Colaboración**<br>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" alt="Mockito"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 
 </div>
@@ -56,14 +75,14 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 ### 🎯 Áreas de Especialización
 
 ```
-🔹 Desarrollo Full Stack (JavaScript/Node.js + Frontend)
-🔹 Inteligencia Artificial y Machine Learning (Python/Jupyter)
-🔹 Algoritmos y Estructuras de Datos (Java/C)
-🔹 Desarrollo de APIs REST con Autenticación
-🔹 Programación de Sistemas Operativos (C)
-🔹 Programación Competitiva y Resolución de Problemas
-🔹 Desarrollo de Juegos y Lógica de Programación
-🔹 Documentación Técnica y Markdown
+🔹 Desarrollo backend con Java y Spring Boot
+🔹 Diseño e integración de APIs REST y microservicios
+🔹 Pruebas unitarias con Mockito y calidad de código con SonarQube
+🔹 Sistemas distribuidos y procesamiento de eventos con Kafka y Storm
+🔹 Persistencia con SQL Server, PostgreSQL y MongoDB
+🔹 Cache y datos en tiempo real con Redis
+🔹 Observabilidad con Grafana y Kibana
+🔹 Metodologías ágiles y colaboración con Jira, Confluence y Azure DevOps
 ```
 
 ---
@@ -96,7 +115,11 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 - **Sistemas Inteligentes** - Machine Learning e Inteligencia Artificial
 
 ### 💼 Experiencia Técnica
-- 🔹 **Desarrollo Backend**: APIs REST con autenticación y seguridad
+- 🔹 **Ingeniero de Software en prácticas — Grupo Viajes El Corte Inglés**: Desarrollo y mantenimiento de soluciones backend empresariales
+- 🔹 **Backend**: Java, Spring Boot, C# y APIs REST
+- 🔹 **Calidad y testing**: Pruebas unitarias con Mockito, análisis estático con SonarQube y automatización de builds con Gradle
+- 🔹 **Datos y sistemas distribuidos**: SQL Server, PostgreSQL, MongoDB, Redis, Kafka y Storm
+- 🔹 **Observabilidad y trabajo en equipo**: Grafana, Kibana, Jira, Confluence y Azure DevOps
 - 🔹 **Programación Competitiva**: Solución de problemas algorítmicos complejos
 - 🔹 **Inteligencia Artificial**: Implementación de algoritmos de ML con Python
 - 🔹 **Desarrollo de Juegos**: Lógica de programación y experiencia de usuario
@@ -155,11 +178,10 @@ Soluciones a problemas de programación competitiva en LeetCode. Demuestra habil
 - **Código Limpio**: Escribir código que otros (y yo) puedan entender
 
 ### 🌱 Actualmente Explorando
-- Patrones de diseño avanzados en Java
-- Optimización de algoritmos para programación competitiva
-- Frameworks modernos de Machine Learning
-- Arquitecturas de microservicios
-- Desarrollo de APIs escalables
+- Patrones de diseño y buenas prácticas en Java y Spring Boot
+- Arquitecturas de microservicios y sistemas orientados a eventos
+- Testing automatizado, calidad de código y observabilidad
+- Optimización de APIs y acceso a bases de datos
 
 ---
 
