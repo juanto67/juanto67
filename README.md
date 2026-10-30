@@ -99,8 +99,8 @@ Soy estudiante de Ingeniería Informática e ingeniero de software en prácticas
 ## 📈 Actividad de Contribución
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juanto67&theme=tokyo-night&hide_border=true&custom_title=Contribuciones%20de%20juanto67)
+
+<img width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=juanto67&theme=tokyonight&no-frame=true&no-bg=true&row23&column=3&margin-w=22&margin-h=22" alt="Trofeos de GitHub de juanto67"/>
 
 </div>
 
